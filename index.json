@@ -1,0 +1,87 @@
+{
+  "name": "WindsOf Plugin Toolkit Repository",
+  "url": "https://raw.githubusercontent.com/WindsOf/WOTK-s-plugins/master/dist/index.json",
+  "schemaVersion": 1,
+  "pluginsFolder": "plugins",
+  "flowsFolder": "flows",
+  "plugins": [
+    {
+      "name": "BetterIMG",
+      "pkg": "com.wip.betterimg",
+      "version": "2.0.6",
+      "fileName": "betterimg.jar",
+      "description": "A plugin that processes images using the BetterIMG CLI tool.",
+      "targetAppVersion": "1.0.0",
+      "hash": "deafffd0f629b1b960b15b440896338daef3cc20a306a792832b4f5b56966f40",
+      "signature": "GAMRudjjTFhg/h4gt8ukR5cfI7ldQ5eR5ZyVL9suehDGvndJS0f7l3dfAQhs4HnO3IFtWFlXrSgOFaVMAIFP9sDtscknO+joucwpYEIcLs79NHHgxqRYP8mSoOJRd/Smh80SAP0t2KKRHTppQsgRXrgbADZ+pbiJ1iUEXIIELpqaKTb5HBb5Gw0f0lh8OgnOY0YIVFv2fmuVLxibGowXbK6kcPitu8j7V+lEGnZ1Hd3WN3lvJcvqPN1CS/5ueRRzY4sWu2kBKX1HszyZPSjwrKvJbzN8WYwaOa8Bi8qGt+gy4CV5UBJkdKmabMXPCGdi8NGIC/4ox2Nm66B1tGoSqw=="
+    },
+    {
+      "name": "Manhwa Translator AI",
+      "pkg": "com.wip.manhwa_translator_ai",
+      "version": "1.3.7",
+      "fileName": "manhwaTranslatorAI.jar",
+      "description": "Translate text from Manhwa/Manga into Italian using Google AI via Koog",
+      "targetAppVersion": "1.0.0",
+      "hash": "5e31b04a9ee0725bc8d5390cb9a7b8da36f43af5ad1d7c76a53beec092d57493",
+      "signature": "nereFnaBS0ztQqGKV15u+AS/d5Jd5BCgkY9J0owrHxGaFyXFH8qjKlqTxbvgIPXjAiWrg2ibKMoVN2t+mO6Ko5BMRyoawwN9XTHBsSoaplnRJID3heNW6Ty1sQq81+AREcVbqhujidUv9fgb4uLrpGsIp6KKVTWrWHvfulevEK7wPW69EpEIK8VGA3b7zh6VfoFRkWTRIz7dYcP9nIn3mUuSbXMG/3sfqlX22qA3FHS/fTnxJJt5FJ1l6e+C9bnGF5M8EqqIa77zxnqSASYCilNweQEDG4CrZ9Q4Cgs4U7QhjHVPVQVHegVqQaIGecLcAcTp4kv9wp74jGk1UdHmHg=="
+    },
+    {
+      "name": "OCR IA",
+      "pkg": "com.wip.ocr_ia",
+      "version": "2.4.6",
+      "fileName": "OCR_IA.jar",
+      "description": "Advanced OCR plugin using Google AI, Anthropic, OpenAI, and LMStudio via Koog",
+      "targetAppVersion": "1.0.0",
+      "hash": "024aad1a5aa6ed55357b29f13592579038e1475a0c33bc9bc8d1a5e423aa5eab",
+      "signature": "ODpyydiThA5eK6nz5lYqIkZs8cXpSO3MTdV1dBLsp4iATO10pEmUc4iYRuDMu3TpMxZw9RkETWxdbkwZrUCm7YJZNR38uxZCRnpSS+pQI2Q1bCmeRU+9hGSpiVsCkmSZIrd5v0lWJuaLe4BrEOOxLEAHZhrJFM2RaFUxinvHSM1LNMMwT4qIYLyYUGJwgq+nDZO7iMR18hw3zR8aTcrmZbGe4scw5j1I7H9Ag2q+MYoY0hsmHvCAr+t4eez29IENWKooo0syoFtsr542RlIyipcpxUecr+6le1212G6vD9/cRKNPfGASqr3jQ4f29fHJm6T57cmeq3fxkBBeIFTVFg=="
+    },
+    {
+      "name": "PSD Builder Native",
+      "pkg": "com.wip.psdbuilder.native",
+      "version": "4.4.13",
+      "fileName": "PSD_builder_native.jar",
+      "description": "A plugin that builds layered PSD files natively in Kotlin.",
+      "targetAppVersion": "1.0.0",
+      "hash": "aee72ae9fa55c76540f657b4b9b327d46665be58a02120050e25343904c4ca38",
+      "signature": "TEh7uyUPIdiJoy/cTOoOSkzEH6N6T78CvZGcOt9SxwRA7aFKlL93lzqbjsI/Vyz8W4myCRvkMivyqfryYQHLzohlN4JnUfYeKiokWwQ+FL1+NUQA4XgR98IrTRDkXX4fzZvLrFyzvKkMRY3VMnDcNUAztFf18qmE/iUNPC0VrKHVH9PkiAyL2BK3wQ3MSYTvj/sEApWyC+byR1gFXZzqZ7B7o3Sf9Y6aa9FkJrsL/iOI54sHgvde09ZiP9bTcYHq1ydyXVUOOLjU+rGWKelbeQFYHqBeafH6L0SK7LEagmJNz3iW3vFFv5IMM70w34eh4BgI8zQ23b/OYG17jPZvYg=="
+    },
+    {
+      "name": "Slicer",
+      "pkg": "com.wip.slicer",
+      "version": "1.1.6",
+      "fileName": "slicer.jar",
+      "description": "A plugin that provides vertical images sliding capabilities for manhwa.",
+      "targetAppVersion": "1.0.0",
+      "hash": "c492940d25798037ad97746e585e84956e51c5cc7c7ac359e55c45219cdab777",
+      "signature": "N5Hvj1rTwb5H6Clr/V7MJGnvbyzeGzEWK0ycsVI0J+E9Rq0uSGpVEV0y/8cQh66fvLo6sxLfRcy3xRLvwkn7nO/u9f9JHltWbpHkHAvTHioPfXVVK08ftHhsjikOUo9V3AMCCNgXMeW2FRgYzrq+8F6qWI6ngJbODKaDzmDYbPgSv4WgIZDK6cfCTSlBy03H5fwRJLD4rtL/r7PUtT2f1JRT9sd4Dy1pnz5WqBKGrrXFm2OTE3aaUZOQAQTERH7eI2EvIVCeA6Imo0FJf60NVLfSv/Vmfh/eHH3D1POfkATNwizWVpNTMVQP22QA6tEkNHztiB03PMJBGcYPtQ0Hjg=="
+    }
+  ],
+  "flows": [
+    {
+      "name": "Test Flow",
+      "fileName": "test_flow.json",
+      "version": "1.0.5",
+      "description": "A simple test flow for repository generation",
+      "hash": "7d5f29af625079bee9c2e35388593475288b95da07824c645f9c087bbe6d6551",
+      "signature": "Pv7cregH6HHl6pAOjD5JitgpFm0PdrOAd0GFecALQQMwV6cHKxDr9rbPB0jtG7u0/6pyIqSi735roD22ZOGvZ7f4V75wWEWvtRGH3Ep8ku84Ap00QNr/oQOTNy0yAieGwNccUwjqPBveV/wsZpLuRmfOb5CxaNCxEbNf5bc0Flt1gY+CYi9iGN6zUudLQ/oMsgpFUaCNYLyhDbhFDIXtYDNw/6S6V81gH8ZEv6eNTZZBwykKLZ8Fns9uT2oSsiH+s/MC6yHZrgRVZsASF2HQNZEkEZe5yUUoL401Tdi+SaGBVhPwumrNgf6MwxUfghnSa/ofeqdsEGEUPOgdIi1FLw=="
+    },
+    {
+      "name": "WOM Flow",
+      "fileName": "WOM_Flow.json",
+      "version": "1.0.2",
+      "description": "Flow per WOM senza miglioramento delle immagini",
+      "hash": "ea196b7fcf799cebe196db3e85cbd58300ae82ddc38f9b64c8adc83aaeeed9a2",
+      "signature": "ajoyK55jBnSH0l/34WVV/4xfrdUoonxUDB3scXoIWe/tVZn9SpjXl97tqyTHae/TAK4hYeJQ9hheXTNbbqobtwPttY0/jsq8whLM4cGe4XiabNlr59dSCM3Dpm9h3DIwdUx6qVO7qNb/j6DyJcLM2cc6PFwK7VCm56DtgcWIUCNYhR5hKndmqESisAs9cC+hr6OPQb/zNnkCkGMBI0yB9wWluil4b4k8mzmwQA5Kok/IAQSls/hjhBN+PontgUpvi+GK/uLI4syzHuNEHuCAjngniYj8bddsU4wuc6qM1akH0txG3T4U51hC0yfRS1ALTV68mh9XNW4MiFfIDcVDqQ=="
+    },
+    {
+      "name": "WOM Flow con BetterIMG",
+      "fileName": "WOM_Flow_con_BetterIMG.json",
+      "version": "1.0.2",
+      "description": "Flow per WOM con il miglioramento di immagini",
+      "hash": "991e5b95d5f2d11a88db83932d06da29e9e4bf375073455267700a98d9eb9388",
+      "signature": "ZpTtS1NgtDePf8ngShxeXQholSqMz7nkOIOQ3k8QPE6r8OUJaqT/fU+PBgVMXaSLtoc6MzpX2sNH/pessh6J8DLL3+NrgbueQiKLLgnGXAb7M2vcSuFRAsby2LVsvLvC+EJgjxFUaIKL3GtOWq6TtP5FF2KCr093q6Co7hEgD+n5LEcGPI/k1FdbzvR5qwBxlz3eZcoiR/mbT1yyk+zFevjWA2NpsCXkddZ9+RxH2hjrJfvf1Na3yVpe0H+hcFgENyaVi9kSOJZ7f3or12oJhAGbWTgIyxOJIENWaubKM1zebTmP7IUWMBj+KwFdyeY7utVw98k91Xl/l54ZU368Iw=="
+    }
+  ],
+  "signPublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtBeECp5qqAsmv+6EqOOrniZet5dSiuaTQqhnNwp2Ij/LxPn6NaHTRegIvKDmbVKZhnVz2nWkAvRNPjieJG+anZPks1RtMIGSnQndA+XbrU6JzDGo8PiQhkPdr+2604NHrTnY0SRgBtSHwOKFcDUOFOyE1ZbDTgXvii5NnfFlvALwrpRj2NsqZwdnX5oAcd4boAHLGU9Z4yWocYHP29/6ACshtgI0ysJNTsDIFnccScr/O+0vXZyHcr3vrC6esogarc/1qRxRQbH0QKwTliqUWb/ax4z0bZxc3X76iF4A88wpKWxCSLlM9jX7uq14PgWTPBi9XpUvasAVh6qzDpoThQIDAQAB",
+  "signAlgorithm": "SHA256"
+}

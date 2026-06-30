@@ -1,6 +1,6 @@
 {
   "name": "WindsOf Plugin Toolkit Repository",
-  "url": "https://raw.githubusercontent.com/WindsOf/WOTK-s-plugins/master/dist/index.json",
+  "url": "https://raw.githubusercontent.com/WindsOf/WOTK-s-plugins/refs/heads/main/index.json",
   "schemaVersion": 1,
   "pluginsFolder": "plugins",
   "flowsFolder": "flows",

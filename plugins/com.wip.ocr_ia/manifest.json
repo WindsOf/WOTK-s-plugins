@@ -510,60 +510,6 @@
             }
         }
     ],
-    "settings": {
-        "googleApiKey": {
-            "description": "API Key for Google services",
-            "type": {
-                "type": "primitive",
-                "primitiveType": "STRING"
-            },
-            "required": true,
-            "secret": true
-        },
-        "anthropicApiKey": {
-            "description": "API Key for Anthropic services",
-            "type": {
-                "type": "primitive",
-                "primitiveType": "STRING"
-            },
-            "required": true,
-            "secret": true
-        },
-        "openAIApiKey": {
-            "description": "API Key for OpenAI services",
-            "type": {
-                "type": "primitive",
-                "primitiveType": "STRING"
-            },
-            "required": true,
-            "secret": true
-        },
-        "lmStudioUrl": {
-            "description": "URL for LM Studio (e.g. http://localhost:1234/v1)",
-            "type": {
-                "type": "primitive",
-                "primitiveType": "STRING"
-            },
-            "required": true
-        },
-        "lmStudioApiKey": {
-            "description": "API Key for LM Studio",
-            "type": {
-                "type": "primitive",
-                "primitiveType": "STRING"
-            },
-            "required": true,
-            "secret": true
-        },
-        "lmStudioModelName": {
-            "description": "The specific model name to request from LM Studio",
-            "type": {
-                "type": "primitive",
-                "primitiveType": "STRING"
-            },
-            "required": true
-        }
-    },
     "changelog": {
         "releases": [
             {

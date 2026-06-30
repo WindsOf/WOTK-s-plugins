@@ -1420,9 +1420,6 @@
                 "categories": {
                     "Added": [
                         "Support fot 1.7.0"
-                    ],
-                    "Bugfix": [
-                        "Workign with webp images would take ages"
                     ]
                 }
             },

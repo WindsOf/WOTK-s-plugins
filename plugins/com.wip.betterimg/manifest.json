@@ -10,7 +10,7 @@
     "requirements": {
         "minMemoryMb": 128,
         "minExecutionTimeMs": 10,
-        "targetAppVersion": "1.7.1"
+        "targetAppVersion": "1.7.2"
     },
     "defaultParameters": null,
     "capabilities": [

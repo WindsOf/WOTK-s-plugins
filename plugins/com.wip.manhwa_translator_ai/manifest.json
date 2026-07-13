@@ -10,7 +10,7 @@
     "requirements": {
         "minMemoryMb": 128,
         "minExecutionTimeMs": 10,
-        "targetAppVersion": "1.7.1"
+        "targetAppVersion": "1.7.2"
     },
     "defaultParameters": null,
     "capabilities": [
@@ -794,7 +794,7 @@
                 "type": "primitive",
                 "primitiveType": "STRING"
             },
-            "required": true,
+            "required": false,
             "secret": false,
             "constraints": null,
             "requiredByCapabilities": []
@@ -806,7 +806,7 @@
                 "type": "primitive",
                 "primitiveType": "STRING"
             },
-            "required": true,
+            "required": false,
             "secret": true,
             "constraints": null,
             "requiredByCapabilities": []
@@ -818,7 +818,7 @@
                 "type": "primitive",
                 "primitiveType": "STRING"
             },
-            "required": true,
+            "required": false,
             "secret": false,
             "constraints": null,
             "requiredByCapabilities": []
@@ -830,7 +830,9 @@
                 "version": "1.3.8",
                 "date": "2026-07-13",
                 "categories": {
-                    "Added": []
+                    "Added": [
+                        "Support for 1.7.0"
+                    ]
                 }
             },
             {

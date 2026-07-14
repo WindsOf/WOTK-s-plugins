@@ -3,7 +3,7 @@
     "plugin": {
         "id": "com.wip.manhwa_translator_ai",
         "name": "Manhwa Translator AI",
-        "version": "1.3.8",
+        "version": "1.3.9",
         "description": "Translate text from Manhwa/Manga into Italian using Google AI via Koog",
         "supportedOs": []
     },
@@ -839,11 +839,20 @@
     "changelog": {
         "releases": [
             {
+                "version": "1.3.9",
+                "date": "2026-07-14",
+                "categories": {
+                    "Added": [
+                        "fix required fields"
+                    ]
+                }
+            },
+            {
                 "version": "1.3.8",
                 "date": "2026-07-13",
                 "categories": {
                     "Added": [
-                        "Support for 1.7.0"
+                        "Support for 1.7.1"
                     ]
                 }
             },

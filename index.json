@@ -26,6 +26,16 @@
       "signature": "Qhpu8lSlAMjJdBe8OvkxXuzIuzx91/r1sP41oHb/PW3aw/o7qcPvmrwBK4CcSNCZj7DBPlUyv41kSMKwTGn2WiMQN/4m5o0i3A4R0BoXBRMhIE88gHNwNToI8Um5ymhEjvNn8gzX11cFPL8URxe7bx5FD24aEad6wxCx1tq+f6aiRqDcZgjoSvKale2JmiTs1G4th1rSZ6uwo8LfrtV1uckkC19rF+lbViP0TtppM11rIv3wB09v1FY5BpV0jEsTwkUzm4mc+P2guit3JRfCAq5SCucPUMoGXkRn+aSEV1ihTcVE3Ia0Lq7/a7rdZQ8b+MIM4epAioX8W5gWjsuSRQ=="
     },
     {
+      "name": "OCR IA",
+      "pkg": "com.wip.ocr_ia",
+      "version": "2.4.8",
+      "fileName": "OCR_IA.jar",
+      "description": "Advanced OCR plugin using Google AI, Anthropic, OpenAI, and LMStudio via Koog",
+      "targetAppVersion": "1.7.2",
+      "hash": "ed190d1de12800aa3049b4fbf58f4f306b1b14027549d745708949ca0c279036",
+      "signature": "jhz0shIUT4ddHt2gDbtbq1v+KL0QlSVAghFnX5ZX5EVgDeJX+w6zKt/SZU5Rsfzh631tapxRtwGxgiT4X7JwYqIdxACemU6tqx+Dx7+IoRL7wrhlnZwRCR8Kn/eNVeNeak6PxRpwLVpKhPlcUvYxPxbC59NsSqJvATU8PSjlbbXsBUvqVu3/kmTnHoAxBYsGcGbGeVDTw+e7uTiLbTTrbOPDFIOnSpPE1h5xfIUUdwMLYUabP7KHPm9LEFutSqwLrssCa5ddUicHK/10L/I4aVcIIJ1+UQSx3Cug9nrdYoYxuCw0YAmg9X0G0FDq9xoJryfsgJZ7QrK4qZVbCzfNQA=="
+    },
+    {
       "name": "PSD Builder Native",
       "pkg": "com.wip.psdbuilder.native",
       "version": "5.1.3",

@@ -26,6 +26,16 @@
       "signature": "Qhpu8lSlAMjJdBe8OvkxXuzIuzx91/r1sP41oHb/PW3aw/o7qcPvmrwBK4CcSNCZj7DBPlUyv41kSMKwTGn2WiMQN/4m5o0i3A4R0BoXBRMhIE88gHNwNToI8Um5ymhEjvNn8gzX11cFPL8URxe7bx5FD24aEad6wxCx1tq+f6aiRqDcZgjoSvKale2JmiTs1G4th1rSZ6uwo8LfrtV1uckkC19rF+lbViP0TtppM11rIv3wB09v1FY5BpV0jEsTwkUzm4mc+P2guit3JRfCAq5SCucPUMoGXkRn+aSEV1ihTcVE3Ia0Lq7/a7rdZQ8b+MIM4epAioX8W5gWjsuSRQ=="
     },
     {
+      "name": "PSD Builder Native",
+      "pkg": "com.wip.psdbuilder.native",
+      "version": "5.1.3",
+      "fileName": "PSD_builder_native.jar",
+      "description": "A plugin that builds layered PSD files natively in Kotlin.",
+      "targetAppVersion": "1.7.2",
+      "hash": "15927d27eda92b3ec6a9b11ae26faa61f9d8ba17addf2adc32f5dc8c0ec40f73",
+      "signature": "d8X2/3UV4hTW5izdEEy7ZttjqlEp/MujyqCnPtjBgOQ9mVnU3cHUxGngbNjgk1452qDUMAxpxuPSK07mOMfPF4cimvLkm8UXcQlKerETLIbbdGdMyK+GPYXzesR7zZcMtn33rnA8WnD0kXdHRNd3ASU15mlKKJdjhnDloeubT+ki1MEYIRkMkJWbZxefoCAB8W3p/YrLvSWQbbu5cim/wcQYCM+cdtS6h3C+WapEp7Nh7MNQ4aM++Q8t86K4i2D3jH8T3sA2wfbRwtePHbe6D+uZXJxeuR4u5FBQP1rM46CuMwhMQhZNghiqNhtLZUEK/6vTglqWA546R7s2dYVQVw=="
+    },
+    {
       "name": "Slicer",
       "pkg": "com.wip.slicer",
       "version": "1.1.7",

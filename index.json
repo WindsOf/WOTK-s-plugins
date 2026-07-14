@@ -26,6 +26,26 @@
       "signature": "Qhpu8lSlAMjJdBe8OvkxXuzIuzx91/r1sP41oHb/PW3aw/o7qcPvmrwBK4CcSNCZj7DBPlUyv41kSMKwTGn2WiMQN/4m5o0i3A4R0BoXBRMhIE88gHNwNToI8Um5ymhEjvNn8gzX11cFPL8URxe7bx5FD24aEad6wxCx1tq+f6aiRqDcZgjoSvKale2JmiTs1G4th1rSZ6uwo8LfrtV1uckkC19rF+lbViP0TtppM11rIv3wB09v1FY5BpV0jEsTwkUzm4mc+P2guit3JRfCAq5SCucPUMoGXkRn+aSEV1ihTcVE3Ia0Lq7/a7rdZQ8b+MIM4epAioX8W5gWjsuSRQ=="
     },
     {
+      "name": "OCR IA",
+      "pkg": "com.wip.ocr_ia",
+      "version": "2.4.7",
+      "fileName": "OCR_IA.jar",
+      "description": "Advanced OCR plugin using Google AI, Anthropic, OpenAI, and LMStudio via Koog",
+      "targetAppVersion": "1.0.0",
+      "hash": "7096087132517e55e8b42449197a90b1e7f2989e9b2935ec3a45ae72b449c668",
+      "signature": "hBrqEbSrCL9jpAlrH7eNO+XiqfPH/Cw5c+dx6oNTj/oigwn8qCQ6fkdO9wDZ6UNYwrdewZbIlGqTLbDepAwGLx+cjxWIXzVtEdv5mR6DWPfTFiYTsdnDW76lio4KJh/w1eF4AhUlquyZP3kQmRNWabczPzwjLG5Un8cwx3mEz9yPK4vUt4C3oo4oDDJ24+my5oPIkj8vHWKQXHUE7C7EWIKCXoyuy1rNvyn5cI/ktT7Zs2VwGmTqOT4LU9oyfRomtszJQTWCOX2wmKVvSQIb4lSU5r88HwVqtyv7vQclM2QZmJBIAzMDtd2c4cYdZL5726WEYz5TEaHWWwEll31+OA=="
+    },
+    {
+      "name": "PSD Builder Native",
+      "pkg": "com.wip.psdbuilder.native",
+      "version": "4.4.14",
+      "fileName": "PSD_builder_native.jar",
+      "description": "A plugin that builds layered PSD files natively in Kotlin.",
+      "targetAppVersion": "1.0.0",
+      "hash": "6d70f4e04c1f5fe7a1407a0d1d2a3777d41b22a24f42c61d6b269a5008a8150c",
+      "signature": "XeIiobC1uHPtb+wDRYJmzHYAsJLdhMC6u51sNZOl9xBz4SdupuFi8El8VkZiViSefJRDIxLOg420iCWAx7wCqEIZfK9LpWF9qOjVx/9y2Dov20QtFRB/PHqXUxcd7tZOJRBldP+HdeTnH2HKtYaiS6LWm0zUW6GsnoQ3ivSM5VNMv5VuYkHqpJsyLAR80HAsJNclhhZV2E3vxWTGhn4R1FU/+GDMp7jhbci5mc6fG1DVWNjUhgvVTqD38C6xnUpHB4eYQEc4TYsjeMcWREQX9PzmHxsc6GaM7r9q+vAfcO/TxAD4n5KrEBe32z7zYA3ADhG5V66HM+WOWRd2JP0+mg=="
+    },
+    {
       "name": "Slicer",
       "pkg": "com.wip.slicer",
       "version": "1.1.7",

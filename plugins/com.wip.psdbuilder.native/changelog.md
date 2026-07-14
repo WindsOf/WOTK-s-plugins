@@ -1,7 +1,33 @@
+Version: 5.1.3
+Date: 2026-07-14
+Added:
+  - bump version
+-------------------------------------------------------------------------------------------------
+Version: 5.1.2
+Date: 2026-07-14
+Added:
+	- Bounding boxes layer (Debug Boxes) in the PSD is now hidden by default when debugMode is enabled.
+-------------------------------------------------------------------------------------------------
+Version: 5.1.1
+Date: 2026-07-14
+Fixed:
+	- Output PSD files are now named sequentially (001.psd, 002.psd, etc.) regardless of input filenames.
+-------------------------------------------------------------------------------------------------
+Version: 5.1.0
+Date: 2026-07-14
+Fixed:
+	- Fixed 'Can't create an ImageOutputStream' error when merging large images by disabling ImageIO disk caching.
+  - Fixed a potential NullPointerException when debugMode is enabled with merged images.
+-------------------------------------------------------------------------------------------------
 Version: 5.0.0
 Date: 2026-07-12
 Added:
   - Support for merging multiple images into a single PSD up to a desired height
+-------------------------------------------------------------------------------------------------
+Version: 4.4.14
+Date: 2026-07-13
+Added:
+  - Support for 1.7.0
 -------------------------------------------------------------------------------------------------
 Version: 4.4.11
 Date: 2026-06-29

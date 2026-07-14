@@ -3,14 +3,14 @@
     "plugin": {
         "id": "com.wip.ocr_ia",
         "name": "OCR IA",
-        "version": "2.4.7",
+        "version": "2.4.6",
         "description": "Advanced OCR plugin using Google AI, Anthropic, OpenAI, and LMStudio via Koog",
         "supportedOs": []
     },
     "requirements": {
         "minMemoryMb": 128,
         "minExecutionTimeMs": 10,
-        "targetAppVersion": "1.7.2"
+        "targetAppVersion": "1.7.1"
     },
     "defaultParameters": null,
     "capabilities": [
@@ -122,17 +122,7 @@
                             "LM_STUDIO"
                         ],
                         "namespace": null,
-                        "optionRequirements": {
-                            "CLAUDE_3_5_SONNET": [
-                                "anthropicApiKey"
-                            ],
-                            "GPT_4O": [
-                                "openAIApiKey"
-                            ],
-                            "LM_STUDIO": [
-                                "lmStudioApiKey"
-                            ]
-                        }
+                        "optionRequirements": {}
                     },
                     "constraints": null,
                     "required": true,
@@ -367,17 +357,7 @@
                             "LM_STUDIO"
                         ],
                         "namespace": null,
-                        "optionRequirements": {
-                            "CLAUDE_3_5_SONNET": [
-                                "anthropicApiKey"
-                            ],
-                            "GPT_4O": [
-                                "openAIApiKey"
-                            ],
-                            "LM_STUDIO": [
-                                "lmStudioApiKey"
-                            ]
-                        }
+                        "optionRequirements": {}
                     },
                     "constraints": null,
                     "required": true,
@@ -638,18 +618,82 @@
         }
     ],
     "actions": [],
-    "settings": null,
+    "settings": {
+        "googleApiKey": {
+            "defaultValue": null,
+            "description": "API Key for Google services",
+            "type": {
+                "type": "primitive",
+                "primitiveType": "STRING"
+            },
+            "required": true,
+            "secret": true,
+            "constraints": null,
+            "requiredByCapabilities": []
+        },
+        "anthropicApiKey": {
+            "defaultValue": null,
+            "description": "API Key for Anthropic services",
+            "type": {
+                "type": "primitive",
+                "primitiveType": "STRING"
+            },
+            "required": false,
+            "secret": true,
+            "constraints": null,
+            "requiredByCapabilities": []
+        },
+        "openAIApiKey": {
+            "defaultValue": null,
+            "description": "API Key for OpenAI services",
+            "type": {
+                "type": "primitive",
+                "primitiveType": "STRING"
+            },
+            "required": false,
+            "secret": true,
+            "constraints": null,
+            "requiredByCapabilities": []
+        },
+        "lmStudioUrl": {
+            "defaultValue": null,
+            "description": "URL for LM Studio (e.g. http://localhost:1234/v1)",
+            "type": {
+                "type": "primitive",
+                "primitiveType": "STRING"
+            },
+            "required": false,
+            "secret": false,
+            "constraints": null,
+            "requiredByCapabilities": []
+        },
+        "lmStudioApiKey": {
+            "defaultValue": null,
+            "description": "API Key for LM Studio",
+            "type": {
+                "type": "primitive",
+                "primitiveType": "STRING"
+            },
+            "required": false,
+            "secret": true,
+            "constraints": null,
+            "requiredByCapabilities": []
+        },
+        "lmStudioModelName": {
+            "defaultValue": null,
+            "description": "The specific model name to request from LM Studio",
+            "type": {
+                "type": "primitive",
+                "primitiveType": "STRING"
+            },
+            "required": false,
+            "secret": false,
+            "constraints": null,
+            "requiredByCapabilities": []
+        }
+    },
     "changelog": {
         "releases": [
-            {
-                "version": "2.4.7",
-                "date": "2026-07-13",
-                "categories": {
-                    "Added": [
-                        "Support for 1.7.0"
-                    ]
-                }
-            },
             {
                 "version": "2.4.6",
                 "date": "2026-06-29",
